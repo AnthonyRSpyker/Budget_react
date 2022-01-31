@@ -1,6 +1,6 @@
 import ExpenseItem from "../ExpenseItmes.component/ExpenseItem.component";
 
-function Expenses(props) {
+const Expenses = (props) => {
 
 return (
 
