@@ -17,7 +17,7 @@ const NewExpenseForm = (props) => {
     // })
     
     const titleChangeHandler = (event) => {
-        console.log(event)
+        
         setEnteredTitle (event.target.value)
 
         //alternative 1
