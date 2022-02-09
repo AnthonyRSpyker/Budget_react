@@ -52,7 +52,7 @@ const NewExpenseForm = (props) => {
 
     const dateChangeHandler = (event) => {
         console.log(event.target.value)
-        setEnteredDate(event.taget.value)
+        setEnteredDate(event.target.value)
 
         //alternativers
         // setUserInput({
